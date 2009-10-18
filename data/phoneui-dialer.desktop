@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Dialer
+Name[pl]=Zadzwoń
+Comment=Telephone Calls
+Comment[pl]=Rozmowy telefoniczne
+Exec=shr-dialer
+Icon=shr-dialer
+Terminal=false
+Type=Application
+Categories=Application;PIM;Office;Bar;
+MimeType=text/x-vcard;
+X-MB-SingleInstance=true
+StartupNotify=true

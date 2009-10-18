@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Contacts
+Name[pl]=Kontakty
+Comment=View Contacts
+Comment[pl]=Książka adresowa 
+Exec=shr-contacts
+Icon=shr-contacts
+Terminal=false
+Type=Application
+Categories=Application;PIM;Office;Bar;
+SingleInstance=true
+StartupNotify=true
