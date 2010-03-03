@@ -8,12 +8,12 @@ AM_CPPFLAGS = -DPKGDATADIR=\"$(pkgdatadir)\" \
 
 AM_LDFLAGS = @DBUS_LIBS@
 
-bin_PROGRAMS=phoneui-dialer phoneui-contacts phoneui-messages phoneui-quick-settings phoneui-phonelog
+bin_PROGRAMS=phoneui-dialer phoneui-contacts phoneui-messages phoneui-quick-settings phoneui-phone-log
 
 phoneui_contacts_SOURCES = contacts-main.c
 phoneui_messages_SOURCES = messages-main.c
 phoneui_dialer_SOURCES = dialer-main.c
 phoneui_quick_settings_SOURCES = quick-settings-main.c
-phoneui_phonelog_SOURCES = phonelog-main.c
+phoneui_phone_log_SOURCES = phone-log-main.c
 
         
