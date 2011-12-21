@@ -2,8 +2,8 @@
 Encoding=UTF-8
 Name=Phonelog
 Comment=Show received, outgoing and missed calls
-Exec=phoneui-phonelog
-Icon=shr-phonelog
+Exec=phoneui-phone-log
+Icon=shr-phone-log
 Terminal=false
 Type=Application
 Categories=Application;PIM;Office;Bar;
